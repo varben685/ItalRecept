@@ -1,0 +1,2 @@
+Teszt recept;teszt alapanyag-4.5-dl/másik alapanyag-1-dl;Ez egy teszt file. Reméljük nem lesz semmi baj.
+Második recept;teszt whiskey-3-dl/teszt almalé-5-dl;Ez is egy teszt sor. Így már van két teszt recept.
